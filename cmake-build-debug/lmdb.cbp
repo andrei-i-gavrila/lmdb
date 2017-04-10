@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lmdb"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lmdbtests">
+				<Option output="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/lmdbtests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 lmdbtests"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lmdbtests/fast">
+				<Option output="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/lmdbtests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 lmdbtests/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lmdb">
+				<Option output="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/lmdb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 lmdb"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lmdb/fast">
+				<Option output="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/lmdb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiuny/Coding/cpp/lmdb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 lmdb/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/kiuny/Coding/cpp/lmdb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/main.cpp">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/controller/movie_controller.cpp">
+			<Option target="lmdbtests"/>
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/controller/movie_controller.h">
+			<Option target="lmdbtests"/>
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/domain/movie.cpp">
+			<Option target="lmdbtests"/>
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/domain/movie.h">
+			<Option target="lmdbtests"/>
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/ui/adminconsole.cpp">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/ui/adminconsole.h">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/ui/console.cpp">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/ui/console.h">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/ui/userconsole.cpp">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/ui/userconsole.h">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/src/utils/vector.h">
+			<Option target="lmdbtests"/>
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/tests/mainTests.cpp">
+			<Option target="lmdbtests"/>
+		</Unit>
+		<Unit filename="/home/kiuny/Coding/cpp/lmdb/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

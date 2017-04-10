@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/lmdbtests.dir/tests/mainTests.cpp.o CMakeFiles/lmdbtests.dir/src/domain/movie.cpp.o CMakeFiles/lmdbtests.dir/src/controller/movie_controller.cpp.o  -o lmdbtests 
