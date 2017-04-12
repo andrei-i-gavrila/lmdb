@@ -7,12 +7,6 @@
 #IncludeRegexTransform: 
 
 /home/kiuny/Coding/cpp/lmdb/main.cpp
-string
--
-iostream
--
-src/utils/vector.h
-/home/kiuny/Coding/cpp/lmdb/src/utils/vector.h
 src/ui/adminconsole.h
 /home/kiuny/Coding/cpp/lmdb/src/ui/adminconsole.h
 src/ui/console.h
@@ -67,8 +61,6 @@ iostream
 -
 console.h
 /home/kiuny/Coding/cpp/lmdb/src/ui/console.h
-userconsole.h
-/home/kiuny/Coding/cpp/lmdb/src/ui/userconsole.h
 
 /home/kiuny/Coding/cpp/lmdb/src/ui/console.h
 adminconsole.h
