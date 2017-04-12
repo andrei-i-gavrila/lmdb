@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/lmdb.dir/main.cpp.o CMakeFiles/lmdb.dir/src/domain/movie.cpp.o CMakeFiles/lmdb.dir/src/controller/movie_controller.cpp.o CMakeFiles/lmdb.dir/src/ui/adminconsole.cpp.o CMakeFiles/lmdb.dir/src/ui/console.cpp.o CMakeFiles/lmdb.dir/src/ui/userconsole.cpp.o  -o lmdb 
